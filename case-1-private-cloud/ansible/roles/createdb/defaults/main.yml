@@ -1,4 +1,0 @@
-mysql_password: p4ssw0rd
-app_mysql_user: hpsa
-app_mysql_password: demo
-app_db_name: hpsa_demo

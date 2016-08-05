@@ -1,8 +1,0 @@
----
-
-- hosts: [all]
-  sudo: yes
-  gather_facts: False
-  tasks:
-    - name: Add static ip
-      raw: echo "$(hostname -I) $(hostname)" >> /etc/hosts

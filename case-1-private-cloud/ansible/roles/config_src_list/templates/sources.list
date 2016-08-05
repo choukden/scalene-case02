@@ -1,2 +1,0 @@
-#local packages repository
-deb http://{{ lookup('env', 'SRC_IP') }}:8008 ./
